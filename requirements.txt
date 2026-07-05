@@ -1,0 +1,11 @@
+
+langchain
+langchain-community
+langchain-experimental
+langchain-huggingface
+
+sentence-transformers
+
+unstructured
+python-docx
+langchain_openai
