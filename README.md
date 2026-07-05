@@ -8,9 +8,9 @@ An AI-powered document processing pipeline that performs **semantic chunking** o
 - Load and parse `.docx` documents using LangChain
 - Extract both text and table content
 - Semantic chunking based on document meaning instead of fixed chunk sizes
-- Generate embeddings using OpenAI `text-embedding-3-small` / `text-embedding-3-large`
+- Generate embeddings using OpenAI  "text-embedding-3-small" / "text-embedding-3-large"
 - Preserve contextual relationships between paragraphs
-- Ready for Vector Databases (FAISS, ChromaDB, Pinecone, Azure AI Search, etc.)
+- Ready for Vector Databases (Qdrant, FAISS, ChromaDB, Pinecone, Azure AI Search, etc.)
 - Suitable for enterprise RAG applications
 
 ## 🔑 Configure OpenAI API
